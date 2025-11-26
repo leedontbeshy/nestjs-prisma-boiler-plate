@@ -1,7 +1,7 @@
 {
-  "name": "reclaim-server",
+  "name": "nestjs-prisma-boiler-plate",
   "version": "0.0.1",
-  "description": "An API for 2nd phone store built using PostgreSQL & NestJS",
+  "description": "boiler-plate",
   "author": "Lee",
   "private": true,
   "license": "UNLICENSED",
