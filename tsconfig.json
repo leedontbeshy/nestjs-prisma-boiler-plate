@@ -17,6 +17,8 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
 
+    "strict": true,
+
     "incremental": true,
 
     "lib": ["es2021", "dom"],
@@ -27,6 +29,6 @@
       "@modules/*": ["src/app/modules/*"]
     }
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "prisma.config.ts"],
   "exclude": ["dist", "node_modules"]
 }
